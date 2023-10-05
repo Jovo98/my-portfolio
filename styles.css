@@ -42,6 +42,9 @@ body {
     background-color: #423e3e;
 }
 h1   {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
     padding: 16px;
     border-radius: 8px;
     color: #000000;
@@ -149,7 +152,7 @@ footer {
     padding: 0;
     overflow: hidden;
     background-color: #000000;
-    top: 0;
+    bottom: 0;
     left: 0;
     width: 100%;
     position: fixed;
